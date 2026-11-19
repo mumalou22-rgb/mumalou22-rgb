@@ -2,7 +2,7 @@
 
 ### Data Analyst in the making | Environmental Consultant
 
-Welcome to my GitHub profile! I’m **[@mumalou22-rgb](https://github.com/mumalou22-rgb )**, an environmental consultant who is learning data analysis and building skills in project presentations.
+Welcome to my GitHub profile! I’m **[@mumalou-ml](https://github.com/mumalou-ml)**, an environmental consultant who is learning data analysis and building skills in project presentations.
 
 ## Table of Contents
 
